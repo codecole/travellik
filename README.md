@@ -2,9 +2,15 @@
 
 A simple travel application UI made with flutter for Nigeria
 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+
+![Image of Yaktocat](https://github.com/codecole/travellik/blob/master/assets/images/screenshot1.png)
+
+![Image of Yaktocat](https://github.com/codecole/travellik/blob/master/assets/images/screenshot2.png)
+
 
 A few resources to get you started if this is your first Flutter project:
 
