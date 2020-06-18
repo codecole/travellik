@@ -1,6 +1,6 @@
 # codecole
 
-A simple travel application UI made with flutter for Nigeria
+A simple travel application UI.
 
 
 ## Getting Started
